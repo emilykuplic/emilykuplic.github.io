@@ -2,8 +2,7 @@
     width: 800px;
     margin: 40px auto 60px;
 }
-
-h1 {
+#name {
  font-size: 46px;
   color: #80bfff;
   font-family: 'Palatino Linotype', 'Book Antiqua3', 'Palatino6', serif;
