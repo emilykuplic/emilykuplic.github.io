@@ -37,15 +37,16 @@ header.masthead {
   background-size: cover;
   -o-background-size: cover;
 }
-
-.fa {
+.icons {
+  text-align: center;
+  font-size: 50px;
+}
+/*.fa {
     font-size: 50px;
-    width: 30px;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
-    font: normal normal normal 14px/1 FontAwesome;
-}
+}*/
 
 header.masthead>.overlay {
   padding: 5rem 0;
@@ -58,6 +59,14 @@ header.masthead>.overlay {
     padding: 10rem 0;
   }
 }
+h1 {
+  font-family: 'Patrick Hand SC', cursive;
+  /*font-family: 'Ubuntu Condensed', sans-serif;*/
+}
+h3 {
+font-family: 'Alegreya Sans SC', sans-serif;
+}
+
 .name {
   font-size: 54px;
   color: white;
@@ -68,6 +77,6 @@ header.masthead>.overlay {
 }
 
 .footer {
-  background-color: black;
+  background-color: dark gray;
 }
 		</style>
